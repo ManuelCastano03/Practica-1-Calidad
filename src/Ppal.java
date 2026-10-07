@@ -6,6 +6,7 @@ public class Ppal {
 System.out.println("Esta es mi primera practica");
 System.out.println("Indica tu nombre");
 System.out.println("Indica tu apellido");
+System.out.println("Indica tu edad");
 
 
 	}
