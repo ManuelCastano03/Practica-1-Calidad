@@ -7,6 +7,8 @@ System.out.println("Esta es mi primera practica");
 System.out.println("Indica tu nombre");
 System.out.println("Indica tu apellido");
 System.out.println("Indica tu edad");
+System.out.println("Indica tu fecha nacimiento");
+
 
 
 	}
